@@ -30,7 +30,7 @@ Demo:
 
 # Publication
 PAM & PAL: Policy-Aware Virtual Machine Migration and Placement in Dynamic Cloud Data Centers, IEEE International Conference on Computer Communications (Infocom 2020).
-The paper can be downloaded here.
+The paper can be downloaded <a href="http://csc.csudh.edu/btang/papers/migration-camera.pdf">here.</a>
 
 # Researchers
 
