@@ -22,11 +22,6 @@ The project is implemented in Java with graph-stream as an external library. You
 2. Unzip the file download, and add the .jar file into your project as an external library in your choice IDE. In our demo, we use IntelJ.
 3. Download or clone our code into your project directory and run the test.java file.
 
-Demo:
-
-1. Download and extract packages from graph-stream
-2. Add the .jar file into the project
-3. download, add source code, and run the simulation
 
 # Publication
 PAM & PAL: Policy-Aware Virtual Machine Migration and Placement in Dynamic Cloud Data Centers, IEEE International Conference on Computer Communications (Infocom 2020).
